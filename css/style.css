@@ -193,7 +193,7 @@ a:hover {
 /* sets font type for link items in mobile nav */
 
 .navbar a {
-    font-family: "Kalligraphia", sans-serif;
+    /* font-family: "Kalligraphia", sans-serif; */
 }
 
 /*alterations made to Bootstraps navbar-brand class for project specific navbar set up on mobile */
@@ -280,7 +280,7 @@ a:hover {
 /* sets font for section titles */
 
 .text-title {
-    font-family: "Kalligraphia", sans-serif;
+    /* font-family: "Kalligraphia", sans-serif; */
 }
 
 /* basic font settings */
@@ -382,7 +382,7 @@ body table {
 }
 
 .label {
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-family: " HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-weight: 300;
     color: white;
     text-decoration: none;
@@ -472,7 +472,7 @@ video {
 /* basic font settings */
 
 .lead.social-text {
-    font-family: "Kalligraphia", sans-serif;
+    /* font-family: "Kalligraphia", sans-serif; */
     font-size: 35px;
     color: white;
     text-decoration: underline;
@@ -600,7 +600,7 @@ input .email-box {
     .navbar-default .navbar-nav>li>a {
         transition: text-decoration 0.5s ease-in-out;
         font-size: 35px;
-        font-family: "Kalligraphia", sans-serif;
+        font-family: "Caveat", sans-serif;
         color: white;
     }
     
