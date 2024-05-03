@@ -53,7 +53,7 @@ a:hover {
 
 .callout-container {
     height: 100vh;
-    background-image: url('../images/collage.jpg');
+    background-image: url("../images/live.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -103,7 +103,7 @@ a:hover {
 /* background image settings for video section */
 
 .video-container {
-    background-image: url("../images/video-header.png");
+    background-image: url("../images/rug.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -600,7 +600,7 @@ input .email-box {
     .navbar-default .navbar-nav>li>a {
         transition: text-decoration 0.5s ease-in-out;
         font-size: 35px;
-        font-family: "Caveat", sans-serif;
+        /* font-family: "Caveat", sans-serif; */
         color: white;
     }
     
